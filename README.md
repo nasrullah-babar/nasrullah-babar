@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Nasrullah 👋</h1>
-<h3 align="center">CS Student @ UIC | AI & Distributed Systems Enthusiast</h3>
+<h3 align="center">CS Student @ UIC</h3>
 
 <p align="center">
-  Passionate about developing ethical AI and computer vision models. 
+  Writing code to justify my Chai addiction. 
 </p>
 
 ---
