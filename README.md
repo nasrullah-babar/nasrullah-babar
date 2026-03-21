@@ -2,7 +2,7 @@
 <h3 align="center">CS Student @ UIC | AI & Distributed Systems Enthusiast</h3>
 
 <p align="center">
-  Passionate about developing ethical AI and computer vision solutions to mitigate climate risks and maximize agricultural output. 
+  Passionate about developing ethical AI and computer vision models. 
 </p>
 
 ---
