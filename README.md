@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
-### 🚀 What I Have Working On:
+### 🚀 What I Have Been Working On:
 * **Environmental CV Model:** Developing a real-time waste classification model using YOLOv8 and TACO.
 * **VolunGo:** A MERN-stack web application connecting NGOs with local volunteers.
 * **KartWise.AI:** An AI-powered shopping assistant developed for SparkHacks '26.
